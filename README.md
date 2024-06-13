@@ -5,7 +5,6 @@ Dataset local de imágenes de gatos con 31 clases.
 
 ----------------------
 
-
 # 📂 Dataset-32000
 
 Esta primera versión del *dataset* contiene la cantidad original de imágenes que se obtuvieron en total. En concreto, 31.393 fotos. 
@@ -13,6 +12,10 @@ Esta primera versión del *dataset* contiene la cantidad original de imágenes q
 # 📂 Dataset-15000
 
 Esta es una versión reducida del *dataset* en el que se revisaron las imágenes y se dejaron las de mayor calidad.
+
+# 📓 Notebook *funcionalidades*
+
+En este notebook se encuentran celdas de utilidad para el acondicionamiento y renombramiento de las imágenes.
 
 # ⚖️ Licencia
 
