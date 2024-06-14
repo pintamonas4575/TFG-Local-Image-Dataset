@@ -19,6 +19,15 @@ Esta es una versión reducida del *dataset* en el que se revisaron las imágenes
 
 En este notebook se encuentran celdas de utilidad para el acondicionamiento y renombramiento de las imágenes.
 
+# 📓 Notebook *mover_test_a_trainV3*
+
+Notebook para reciclar el *dataset*. Primero mueve todas las fotos a la carpeta de entrenamiento y luego distribuye **20%** a **validavión** y **10%** a **testing**.
+  
+# 📓 Notebook *web-scraping-shutterstock*
+
+Notebook con la realización de *web-scraping* a la página de Shutterstock.
+
+
 # ⚖️ Licencia
 
 Para hacer un trámite burocrático en España se tocan más papeles que imágenes tiene la versión extendida del *dataset*.
